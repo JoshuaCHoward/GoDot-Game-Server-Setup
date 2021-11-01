@@ -1,7 +1,3 @@
 readMe.txt
-.idea
-.gradle
-.pytest_cache
 src/back/pokemon/**
 src/back/mongodb/**
-readMe.txt
